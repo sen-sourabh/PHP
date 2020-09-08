@@ -1,0 +1,26 @@
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 10px 14px;
+  border-radius: 50%;
+  background-color: #3EC1D5;
+  border: 1px solid #3EC1D5!important;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.4);
+}
+
+#myBtn:hover {
+  	color:#fff;
+	background-color: #444!important;
+	transition: .35s ease-in-out;
+    border: 1px solid #444!important;
+}

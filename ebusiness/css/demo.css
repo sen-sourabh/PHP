@@ -1,0 +1,119 @@
+/****************************************TAB PANEL*******************************************/
+body{
+  margin-top:100px!important;
+}
+
+
+
+
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+
+
+
+/*jhgfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbxhcbbbbbbbbbbbbbb
+xchkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+cjxxxxxxxxxxxxx*/
+
+
+
+
+
+
+
+#portfolio{
+  padding-top: 40px;
+  height: 972px;
+}
+.portfoliohrline{
+  border:1px solid #333;
+  width:10%;
+}
+.animate-link-btn{
+  text-align: center;
+  margin-top: 50px;
+}
+.portfolio-img{
+  width: 360px!important;
+  height: 288px!important;
+}
+.menu-btn{
+  
+  display:inline-block;
+  list-style: none;
+  margin: 0 4px!important;
+  border:1px solid #444!important;
+  border-radius: 30px!important;
+  outline: none!important;
+  cursor: pointer!important;
+  background-color: #fff!important;
+  font-size: 14px!important;
+  font-weight: normal!important;
+  color: #444!important;
+  padding: 10px 15px;
+  padding: 6px 15px!important;
+}
+.menu-btn:hover{
+  transition: .35s ease-in-out;
+  color: #fff!important;
+  background-color: #3EC1D5!important;
+  border:1px solid #3EC1D5!important;
+
+}
+.menu-btn.active{
+  color:#fff!important;
+  background-color: #3EC1D5!important;
+  border:1px solid #3EC1D5!important;
+}
+.portfolio-img{
+  width: 360px!important;
+  height: 288px!important;
+}
+
+.container-port {
+  position: relative;
+  width: 100%;
+  cursor:pointer;
+}
+.overlay-port {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #000000ad;
+
+}
+.container-port:hover .overlay-port{
+  opacity: 1;
+}
+.over-port-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.over-port-text h4{
+  width:320px;
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #ddd;
+}
+.over-port-text h4:hover{
+  color: #fff;
+}
+.over-port-text span{
+  width:320px;
+  font-weight: lighter;
+  font-size: 13px;
+  color: #ddd;
+  
+}
