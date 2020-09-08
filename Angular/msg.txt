@@ -1,0 +1,1 @@
+Filter out columns in a Web SQL table
