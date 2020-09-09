@@ -1,0 +1,114 @@
+html{
+	overflow-y: scroll;
+	scroll-behavior: smooth;
+	height:200px;
+
+}
+body{
+	margin:0px;
+	background-image: url("../img/grayscale1.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+
+}
+
+#center{
+
+		padding-top: 20px;
+}
+#slidetext h1{
+	font-family: serif;
+	color: rgba(255,255,255,0.7);
+	fill: transparent;
+	font-size: 1.5rem;
+	
+}
+#slidetext fieldset{
+	margin-left: 500px;
+	margin-right: 500px;
+	background: linear-gradient(rgba(22,22,22,0.1),rgba(22,22,22,0.9));
+	border-radius: 10px;
+	border-color: lightgray;
+	border:hidden;
+}
+#slidetext .input{
+	padding:15px;
+	width:230px;
+	height:20px;
+	margin:10px;
+	border-radius: 5px;
+	border:hidden;
+	outline:none;
+}
+.selectlist{
+	padding:15px;
+	width:260px;
+	height:50px;
+	margin:10px;
+	border-radius: 5px;
+	border:hidden;
+	outline:none;	
+}
+#slidetext h4{
+	margin-left: 32px;
+	text-align: left;
+	margin-top: 10px;
+    margin-bottom: 22px;
+	color:#fff;
+}
+.radiobtn{
+	position: relative;
+	top:-10px;
+	text-align: left;
+    margin-left: 35px;
+	height:30px;
+}
+.radiobtn .radiobtns{
+	margin:0px;
+}
+#slidetext span{
+	color:#fff;
+	margin-right: 30px;
+	
+}
+.checkboxbtn{
+	position: relative;
+	top:-10px;
+	text-align: left;
+    margin-left: 35px;
+	height:42px;
+}
+#slidetext button{
+	background-color: #64a19d;
+	border-radius: .25rem;
+	border:hidden;
+	outline: none;
+	margin-left: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 260px;
+    height:60px;
+	cursor:pointer;
+	padding: 14px;
+	margin-bottom: 10px;
+	color: white;
+	font-family: Times New Roman;
+	font-size: .9rem;
+	letter-spacing: .15em;
+	transition-timing-function: ease-in;
+}
+#slidetext button:hover{
+
+	background-color: #36827d;
+}
+#slidetext a{
+	text-decoration: none;
+	color: white;
+	font-size: 1rem;
+	font-family: monospace;
+	margin-top:-4px;
+	margin-left: 2px;
+}
+#slidetext a:hover{
+	color: #36827d;
+}

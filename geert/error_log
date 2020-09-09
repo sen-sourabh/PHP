@@ -1,0 +1,35 @@
+[30-Nov-2018 09:47:44 Etc/GMT] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Welcome.php on line 517
+[01-Dec-2018 06:02:50 Etc/GMT] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 111
+[01-Dec-2018 06:02:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 111
+[01-Dec-2018 07:44:02 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 114
+[03-Dec-2018 04:55:16 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../initialize.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/order.php on line 23
+[03-Dec-2018 04:58:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 103
+[03-Dec-2018 05:53:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 103
+[03-Dec-2018 05:54:51 Etc/GMT] PHP Fatal error:  Call to undefined function printOrders() in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 118
+[03-Dec-2018 05:55:07 Etc/GMT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 103
+[03-Dec-2018 05:56:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 103
+[03-Dec-2018 05:56:55 Etc/GMT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 103
+[03-Dec-2018 05:56:55 Etc/GMT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 103
+[03-Dec-2018 05:56:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 103
+[03-Dec-2018 05:56:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 103
+[03-Dec-2018 05:56:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 103
+[03-Dec-2018 06:29:13 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:29:15 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:29:16 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:29:16 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:29:21 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:29:48 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:30:02 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:30:03 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:31:00 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:31:01 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:31:02 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 06:33:12 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productlist.php on line 35
+[03-Dec-2018 10:44:39 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 107
+[03-Dec-2018 10:49:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/itsoluti/public_html/geert-gevaar/application/views/admin/productdetail.php on line 74
+[04-Dec-2018 06:15:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ']' in /home1/itsoluti/public_html/geert-gevaar/application/models/User.php on line 107
+[04-Dec-2018 06:32:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 257
+[04-Dec-2018 06:32:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 258
+[04-Dec-2018 08:48:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Welcome.php on line 235
+[04-Dec-2018 08:49:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Welcome.php on line 244
+[04-Dec-2018 08:55:44 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home1/itsoluti/public_html/geert-gevaar/application/controllers/Admin.php on line 292
