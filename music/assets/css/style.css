@@ -1,0 +1,46 @@
+.card-body {
+    padding: 5px !important;
+}
+.audio {
+    width: -webkit-fill-available;
+    height: 40px;
+}
+@media screen and (max-width: 411px) {
+	.audio{
+		width: -webkit-fill-available;
+    	height: 40px;
+	}
+}
+.nav-link {
+    font-size: large !important;
+}
+.foot{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.foot_hr{
+	margin-top: 16px;
+}
+.footer {
+	margin-top: 50px;
+    background-color: #f9f8fc !important;
+    border:1px solid lightgrey !important;
+}
+.footer_li_menu {
+	list-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width:100%;
+}
+.footer_li_menu a{
+	color: #444;
+	text-decoration: none;
+	width:100%;
+}
+.footer_li_menu a:hover{
+	color: black;
+	font-weight: bold;
+}
+.footer_menu {
+    padding-left: 0px;
+}
