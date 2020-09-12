@@ -1,0 +1,26 @@
+body{
+	margin:0px;
+}
+#table_candidate {
+    margin-top: 80px;
+}
+#form{
+	margin-top: 80px;	
+}
+input, select{
+    width: 20%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+.btn 
+{
+    display: inline-block;
+    padding: 10px 20px!important;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    vertical-align: baseline!important;
+}

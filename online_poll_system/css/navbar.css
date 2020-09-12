@@ -1,0 +1,119 @@
+body{
+  margin: 0px;
+}
+#interrow{
+    background-color: #fbcb5ebd!important;
+}
+.logout{
+    float: right!important;
+    color: red!important!;
+    font-weight: bold!important;
+    text-decoration: none!important;
+}
+.logout:hover{
+  color:#3ec73eeb!important;
+}/*
+#intro{
+	width:100%;
+}*/
+
+
+/* Style the navbar */
+/*#navbar {
+  overflow: hidden;
+  background-color: #333;
+}*/
+
+/* Navbar links */
+/*#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}*/
+
+/* Page content */
+/*.content {
+  padding: 16px;
+}
+*/
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+/*.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}*/
+/*
+ Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) 
+.sticky + .content {
+  padding-top: 60px;
+}
+
+*/
+
+
+
+
+
+
+
+
+.navbar-container {
+    padding: 0px 0 0px 0;
+}
+
+.navbar.fixed-theme {
+    background-color: #222;
+    border-color: #080808;
+    
+}
+
+#nav-head.fixed-theme {
+    font-size: 36px;
+}
+
+.navbar-container.fixed-theme {
+    padding: 0;
+}
+
+#nav-head.fixed-theme,
+.navbar-container.fixed-theme,
+.navbar.fixed-theme,
+#nav-head,
+.navbar-container{
+    transition: 0.8s;
+    -webkit-transition:  0.8s;
+}
+.navbar-inverse {
+    background-color: #fbcb5ebd!important;
+    border-color: #fbcb5ebd!important;
+}
+.navbar-inverse .navbar-nav li a{
+	font-size: 16px;
+	color: black!important;
+	font-weight: bold;
+    background-color: transparent!important;
+    border-color: 2px solid transparent!important;
+}
+.active{
+    color:green!important;
+    background-color: transparent!important;
+}
+/*.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: green!important;
+    font-weight: bold;
+    background-color: transparent!important;
+}*/
+/*.navbar-inverse .navbar-nav li a:hover{
+    color: #3EC1D5!important;
+    background-color: transparent!important;
+    border-bottom: 2px solid white!important;
+}*/
+/*.navbar-nav>li>a {
+    padding-top: 25px!important;
+    padding-bottom: 23px!important;
+    line-height: 20px;
+}
+*/

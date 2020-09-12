@@ -1,0 +1,32 @@
+// $MID = $_POST['MID'];
+		// $ORDERID = $_POST['ORDERID'];
+		// $CUST_ID = "Sourabh";
+		// $TXNAMOUNT = $_POST['TXNAMOUNT'];
+		// $CHANNEL_ID = "WEB";
+		// $WEBSITE = "WEBSTAGING";
+		// $CHECKSUMHASH = $_POST['CHECKSUMHASH'];
+		// $MOBILE_NO = "9893464042";
+		// $EMAIL = "sourabh@gmail.com";
+		// $INDUSTRY_TYPE_ID = "Retail";
+		// $CALLBACK_URL = $_SERVER['HTTP_REFERER'];
+		// $PAYMENTMODE = $_POST['PAYMENTMODE'];
+		// $AUTH_MODE = $_POST['GATEWAYNAME'];
+		// $PAYMENT_TYPE_ID = $_POST['CURRENCY'];
+		// $BANK_CODE = $_POST['BANKTXNID'];
+		// mysqli_query($con,"INSERT INTO paytm VALUES ('$MID','$ORDERID','$CUST_ID','$TXNAMOUNT','$CHANNEL_ID','$WEBSITE','$CHECKSUMHASH','$MOBILE_NO','$EMAIL','$INDUSTRY_TYPE_ID','$CALLBACK_URL','$PAYMENTMODE','$AUTH_MODE','$PAYMENT_TYPE_ID','$BANK_CODE')");
+
+
+				echo "<b>ORDERID : ".$_POST['ORDERID']."<br>";
+		echo "<b>MID : ".$_POST['MID']."<br>";
+		echo "<b>TXNID : ".$_POST['TXNID']."<br>";
+		echo "<b>TXNAMOUNT  : ".$_POST['TXNAMOUNT']."<br>";
+		echo "<b>PAYMENTMODE : ".$_POST['PAYMENTMODE']."<br>";
+		echo "<b>CURRENCY : ".$_POST['CURRENCY']."<br>";
+		echo "<b>TXNDATE : ".$_POST['TXNDATE']."<br>";
+		echo "<b>STATUS : ".$_POST['STATUS']."<br>";
+		echo "<b>RESPCODE : ".$_POST['RESPCODE']."<br>";
+		echo "<b>RESPMSG : ".$_POST['RESPMSG']."<br>";
+		echo "<b>GATEWAYNAME : ".$_POST['GATEWAYNAME']."<br>";
+		echo "<b>BANKTXNID : ".$_POST['BANKTXNID']."<br>";
+		echo "<b>BANKNAME : ".$_POST['BANKNAME']."<br>";
+		echo "<b>CHECKSUMHASH : ".$_POST['CHECKSUMHASH']."<br>";

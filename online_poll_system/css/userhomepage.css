@@ -1,0 +1,142 @@
+body{
+  margin: 0px;
+}
+/*############################################ ACCORDIAN PANELS ############################################*/
+#accordion{
+	margin-top: 20px!important;
+	width: 100%!important;
+	height:285px!important;
+}
+.panel-body1{
+  padding-left: 40px!important;
+  height:250px;
+  padding-right: 40px!important;
+}
+.panel-body2{
+  padding-left: 40px!important;
+  height:250px;
+  padding-right: 40px!important;
+}
+.panel-body3{
+	padding-left: 40px!important;
+  height:350px;
+  padding-right: 40px!important;
+}
+.panel-body4{
+  padding-left: 40px!important;
+  height:250px;
+  padding-right: 40px!important;
+}
+
+#accordian-panel-default>#accordian-panel-heading {
+  color: #444;
+  background-color: #fff;
+  border-color: #e4e5e7;
+  padding: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+#accordian-panel-default>#accordian-panel-heading a {
+  text-decoration: none;
+  display: block;
+  font-weight: bold;
+  padding: 10px 15px;
+}
+#accordian-panel-default>#accordian-panel-heading a:after {
+  content: "";
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  float: right;
+  transition: transform .25s linear;
+  -webkit-transition: -webkit-transform .25s linear;
+}
+.angle-icon-accordian{
+	margin-left: 0px;
+	padding-right: 10px;
+	font-weight: bold!important;
+    font-size: 1.8rem!important;
+	color: #444!important;
+}
+
+#accordian-panel-default>#accordian-panel-heading a[aria-expanded="true"] {
+  background-color: #fff;
+}
+#accordian-panel-default>#accordian-panel-heading a[aria-expanded="false"] {
+  background-color: #fff;
+}
+
+/*################################################# CHANGE PASSWORD ##############################################*/
+#form-update{
+        width: 35%;
+        margin-top:2%;
+    }
+    #form-update input {
+        margin-bottom: 1%;
+        width: 100%!important;
+        padding-left: 10px;
+        height: 36px;
+        outline: none;
+        border: 1px solid lightgray;
+        border-radius: 5px;
+    }
+    #form-update button {
+        margin-bottom: 1%;
+        width: 100%!important;
+        background-color: #3ec73ebf;
+        border: 1px solid #3ec73ebf;
+        border-radius: 5px;
+        outline: none;
+        color: #fff;
+        cursor: pointer;
+        height: 38px;
+    }
+    #form-update button:hover{
+      transition: .5s ease-in-out;
+      background-color: #3ec73eeb;
+      border: 1px solid #3ec73eeb;
+    }
+    /*select.selectlist {
+    width: 97%!important;
+    height: 36px!important;
+    border: 1px solid lightgray!important;
+    outline: none!important;}*/
+    a{
+      text-decoration: none;
+      color:red;
+      cursor: pointer;
+      font-weight: bold;
+      
+    }
+    a:hover{
+      text-decoration: none;
+      color:green;
+    }
+    
+    .captcha1{
+      margin-bottom: 1%;
+      width:10%;
+      height:30px;
+    }
+
+
+
+/*############################################# PARTICIPATE IN VOTING ##############################################*/
+
+.vote{
+  color:red;
+  font-weight: bold;
+  text-decoration: none;
+}
+.vote:hover{
+  color:#3ec73eeb;
+}
+

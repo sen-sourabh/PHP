@@ -1,0 +1,23 @@
+body{
+  margin: 0px;
+}
+#interrow{
+	background-color: #fbcb5ebd;
+}
+.logout{
+    float:right;
+    color:red;
+    font-weight: bold;
+    text-decoration: none;
+}
+.logout:hover{
+  color:#3ec73eeb;
+  text-decoration: none;
+}
+/*.thead{
+	text-align: left;
+}
+.thead th{	
+
+	background-color:lightgray;
+}*/

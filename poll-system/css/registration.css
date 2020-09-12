@@ -1,0 +1,33 @@
+
+		fieldset{
+			width:50%;
+		}
+		legend {
+    		font-weight: bold;
+    		font-size: x-large;
+    	}
+		form{
+			width:50%;
+			margin-top: 5%;
+		}
+		
+		button{
+			background-color: #41c341e8;
+			border: 1px solid #41c341e8;
+			outline: none!important;
+			border-radius: 4px;
+			width:100%;
+			height:40px;
+			cursor: pointer;
+			color:#fff;
+		}
+		.captcha{
+			text-decoration: line-through;
+			font-family: candara;
+			margin-bottom: 0px;
+			margin-top: 0px;
+		}
+		label{
+			float: left;
+			font-weight: bold;
+		}
